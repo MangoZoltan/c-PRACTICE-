@@ -1,0 +1,100 @@
+Abraham;Andras;1957.05.20;elemzo
+Alsoszentivanyi;Lajos;2002.06.17;scrum master
+Anda;Istvan;1997.08.09;szoftvertesztelo
+Ando;Kitti;1997.08.09;it support
+Andras;Attila;1992.01.27;tanacsado
+Andrassy;Laszlo;1992.01.27;projektvezeto
+Andrasik;Gyula;1992.01.27;it support
+Arkai;Gyorgy;1998.02.26;elemzo
+Arkai;Gyorgyi;1958.02.26;szoftverfejleszto
+Bajnok;Gabor;2002.12.05;rendszergazda
+Bajnok;Erzsebet;2002.12.05;elemzo
+Balatoni;Henrik;1996.06.03;szoftverfejleszto
+Balatoni;Henrietta;1976.06.03;tanacsado
+Fertodi;Tamas;1986.06.03;hr-menedzser
+Badacsonyi;Zoltan;1996.06.03;szoftvertesztelo
+Balazs;Gyorgy;1996.03.12;szoftverfejleszto
+Balazs;Zoltan;1996.03.12;elemzo
+Balogh;adam;1990.11.26;rendszergazda
+Balogh;Elvira;1990.11.26;it support
+Balvanyossy;Peter;1949.10.20;rendszergazda
+Bali;Nikolett;1999.10.20;karbantarto
+Bieber;Andras;1996.04.19;hr-menedzser
+Bolvari;Andras;1996.04.19;szoftverfejleszto
+Bodo;Laszlo;1996.04.19;elemzo
+Burger;Tamas;2001.09.03;szoftverfejleszto
+Hamberger;Laszlo;1999.04.29;rendszergazda
+Bodvai;Zita;1999.04.29;scrum master
+Balamber;Istvan;1969.04.29;it support
+Csapo;Attila;1995.02.15;tanacsado
+Csapo;Bettina;1995.02.15;tanacsado
+Farkas;Jozsef;1965.02.15;rendszergazda
+Fodor;Anett;1995.02.15;takaríto
+Darvai;Janos;1991.01.19;hr-menedzser
+Darvai;Júlia;1991.01.19;ertekesíto
+Braun;David;1993.08.15;szoftvertesztelo
+Fazekas;Laszlo;1991.06.19;it support
+Filak;Jozsefne;1992.03.09;rendszergazda
+Foldvari;Gyorgy;1971.04.27;szoftverfejleszto
+Foldvari;Ivett;1991.04.27;szoftvertesztelo
+Szabad;Janos;1961.04.27;szoftverfejleszto
+Csabai;Brigitta;1991.04.27;tanacsado
+Egervari;agnes;1991.04.27;elemzo
+Egri;Imre;1971.04.27;scrum master
+Geller;Uri;1991.04.27;projektvezeto
+Gellert;Gaborne;1994.10.29;szoftvertesztelo
+Gellert;Gabor;1994.10.29;szoftvertesztelo
+Gerger;Janos;1997.12.10;szoftverfejleszto
+Gerger;Edvin;1987.12.10;szoftvertesztelo
+Gereb;Levente;1997.12.10;szoftvertesztelo
+Garai;Kalman;1997.12.10;karbantarto
+Geszti;Andras;1992.01.12;projektvezeto
+Gor;Janka;1999.10.10;szoftverfejleszto
+Gor;Csaba;1989.10.10;ertekesíto
+Gricser;Helga;2001.08.25;szoftverfejleszto
+Gricser;Gabriella;2001.08.25;elemzo
+Gyorgy;Miklos;1992.10.23;rendszergazda
+Gyory;Geza;2000.02.17;ertekesíto
+Gyory;Gabor;2000.02.17;takaríto
+Hamvay;Peter;1996.10.21;szoftverfejleszto
+Hangyal;Jozseg;2002.05.02;it support
+Hanto;Kalman;1992.06.28;szoftvertesztelo
+Hando;Tünde;1992.06.28;szoftverfejleszto
+Herda;Ignac;1999.09.09;szoftverfejleszto
+Hollendonner;Janos;1992.07.22;rendszergazda
+Pasztor;Zalan;1992.07.22;ertekesíto
+Túri;Zoltan;1992.07.22;szoftvertesztelo
+Hellgert;Lorinc;1992.07.22;szoftvertesztelo
+Horvath;Jozsef;1998.12.13;ertekesíto
+Horvath;Tamas;1973.01.22;tanacsado
+Horvath;Bela;1993.01.22;elemzo
+Karass;Tamas;1993.04.30;ertekesíto
+Karass;Tilda;1993.04.30;takaríto
+Kausay;Kristof;1996.05.10;szoftverfejleszto
+Kertai;Gyula;1997.06.23;karbantarto
+Korom;Lajos;1965.06.11;hr-menedzser
+Kovacs;Gyula;2000.12.14;hr-menedzser
+Kuthy;Katalin;1991.08.25;szoftvertesztelo
+Lacfi;Daniel;1997.10.04;scrum master
+Lazar;Mihaly;1993.10.05;ertekesíto
+Loczi;Andrea;1993.10.05;hr-menedzser
+Nemedi;Gyorgy;1991.08.10;szoftverfejleszto
+Nemedi;Fiona;1991.08.10;szoftverfejleszto
+Papp-Vary;arpad;1994.07.09;ertekesíto
+Papp;Laszlo;1974.07.09;szoftvertesztelo
+Peterfy;Ferenc;1996.08.08;elemzo
+Perei;Zita;1996.08.08;szoftverfejleszto
+Laki;Peter;1996.08.08;it support
+Reti;Greta;1996.11.04;szoftverfejleszto
+Szabo;Lajos;1997.03.18;szoftvertesztelo
+Szabo;Kitti;1999.02.02;rendszergazda
+Szebenyi;Peter;1972.02.08;szoftvertesztelo
+Szemenyei;Katalin;1992.02.08;elemzo
+Szebenyi;Peter;1992.02.08;takaríto
+Szirmai;Janos;1992.12.08;takaríto
+Toth;Dezso;2002.09.10;szoftverfejleszto
+Toth;Peter;2002.09.10;karbantarto
+Urban;Florian;2001.02.09;ertekesíto
+Varnai;Gyorgy;1986.08.27;rendszergazda
+Valkai;Szabina;1996.08.27;szoftvertesztelo
+Mihaly;Anna;1996.08.27;szoftverfejleszto
